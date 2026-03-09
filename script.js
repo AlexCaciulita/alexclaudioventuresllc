@@ -168,6 +168,8 @@ function initContactForm() {
       'app-support': 'App Support Request',
       'wit-feedback': 'Wit App Feedback',
       'tadam-feedback': 'Tadam App Feedback',
+      'bestseattle': 'Best in Seattle Inquiry',
+      'affiliate': 'Affiliate / Partnership Inquiry',
       'business': 'Business Inquiry',
       'other': 'General Inquiry'
     };
